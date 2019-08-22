@@ -1,0 +1,2 @@
+# dictionary
+Meaning for word
